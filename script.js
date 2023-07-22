@@ -22,6 +22,7 @@ function setUnderScores() {
 
 function checkIfWon() {
     if (randomItem === result) {
+          document.getElementById("gameover").querySelector("p").style.display = "block";
         document.getElementById("image").querySelector("img").src = "assets/winner.png";
     }
 }

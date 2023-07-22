@@ -1,4 +1,4 @@
-const secretPhrases = ["you" , "help" , "coffee" , "money" , "leftovers"]
+const secretPhrases = ["you" , "help" , "coffee" , "money" , "break" , "explane" , "friends"]
 
 
 let randomItem = "";
